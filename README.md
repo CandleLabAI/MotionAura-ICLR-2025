@@ -1,5 +1,8 @@
 # MotionAura-ICLR-2025
-Official source code of "MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion", published in ICLR 2025
+Official source code of "MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion", published in ICLR 2025 (Spotlight)
+
+## Paper
+You can read the full paper [here](https://arxiv.org/abs/2410.07659).
 
 ## Installation
 
@@ -7,7 +10,7 @@ Official source code of "MotionAura: Generating High-Quality and Motion Consiste
 - Python 3.8 or higher
 - CUDA 11.8 or higher (for GPU support)
 - [PyTorch](https://pytorch.org/get-started/locally/) 2.0.0 or higher
-- [pip](https://pip.pypa.io/en/stable/installation/)
+
 
 ### Clone the Repository
 ```bash
